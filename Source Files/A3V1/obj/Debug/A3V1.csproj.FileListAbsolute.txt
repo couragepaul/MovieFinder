@@ -1,0 +1,13 @@
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\bin\Debug\A3V1.exe.config
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\bin\Debug\A3V1.exe
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\bin\Debug\A3V1.pdb
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\bin\Debug\BaseFormLibrary.dll
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\bin\Debug\BaseFormLibrary.pdb
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\obj\Debug\A3V1.csprojResolveAssemblyReference.cache
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\obj\Debug\A3V1.AddForm.resources
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\obj\Debug\A3V1.EditForm.resources
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\obj\Debug\A3V1.Form1.resources
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\obj\Debug\A3V1.Properties.Resources.resources
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\obj\Debug\A3V1.csproj.GenerateResource.Cache
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\obj\Debug\A3V1.exe
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\A3V1\obj\Debug\A3V1.pdb

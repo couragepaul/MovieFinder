@@ -1,0 +1,8 @@
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\BaseFormLibrary\bin\Debug\BaseFormLibrary.dll.config
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\BaseFormLibrary\bin\Debug\BaseFormLibrary.dll
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\BaseFormLibrary\bin\Debug\BaseFormLibrary.pdb
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\BaseFormLibrary\obj\Debug\BaseFormLibrary.Form1.resources
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\BaseFormLibrary\obj\Debug\BaseFormLibrary.Properties.Resources.resources
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\BaseFormLibrary\obj\Debug\BaseFormLibrary.csproj.GenerateResource.Cache
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\BaseFormLibrary\obj\Debug\BaseFormLibrary.dll
+C:\Users\weswo\OneDrive\COMP3020\Assignment 3\Solution\v3\BaseFormLibrary\obj\Debug\BaseFormLibrary.pdb
